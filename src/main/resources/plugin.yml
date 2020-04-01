@@ -1,0 +1,10 @@
+name: NightVision
+author: Hancho
+version: 1.0.0
+main: nightVision.NightVision
+api: [1.0.0]
+
+commands:
+    야간투시:
+     description: 야간투시를 부여받습니다.
+     permission: 'true'
